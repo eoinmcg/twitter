@@ -1,0 +1,7 @@
+MojoMotor Twitter Addon
+
+Download and install to a folder called 'twitter' in system/mojomotor/third_party/
+
+Usage: {mojo:twitter:show_tweets user="starfishweb" count="5"}
+
+Note: Works best with APC Cache. I may add more caching in later, though
